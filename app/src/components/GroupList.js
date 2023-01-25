@@ -71,7 +71,7 @@ return(
         <AppNavbar />
             <Container fluid>
                 <div className='float-end'>
-                    <Button color='success' tag={Link} to="/group/new">Add Group</Button>
+                    <Button color='success' tag={Link} to="/groups/new">Add Group</Button>
                 </div>
                 <h3>My JUG Tour</h3>
                 <Table className='mt-4'>
